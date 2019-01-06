@@ -11,5 +11,3 @@
 function anagrams(stringA, stringB) {}
 
 module.exports = anagrams;
-
-//MM test if git works
